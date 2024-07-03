@@ -1,0 +1,66 @@
+div{
+    width: 500px;
+    height: 150px;
+    
+}
+
+.one{
+   background-color: aqua; 
+   
+} 
+
+ .two{
+    background-color: rgb(17, 120, 120); 
+ }
+
+ .three{
+    background-color: rgb(255, 0, 238); 
+ }
+
+ 
+ 
+ .parent{
+    width: 1200px;
+    background-color: rgb(246, 215, 166);
+    height: 600px;
+ }
+
+ .child{
+
+    width: 50%;
+    height: 100%;
+    background-color: rgb(191, 240, 158);
+
+ }  
+
+ div{
+    text-align:center;
+    background-color: aqua;
+    height: auto
+ }
+
+ div{
+    background-color: aquamarine;
+    /* color: #000000 = #000  */
+ }
+
+ /* color
+
+ hex-decimal  => 16
+
+  R    G    B
+  01   30   00
+
+  00   00   00
+
+  ff   ff   ff
+
+  ff   00   00
+
+  00   00   ff
+
+  0123456789ABCDEF
+
+
+ 
+ */
